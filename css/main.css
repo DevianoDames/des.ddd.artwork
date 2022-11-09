@@ -98,14 +98,15 @@ article p {
     width: 150px;
     height: 150px;
     
-    background-image: url('../images/phantom.troupe.jpg');
+    background-image: url('../images/ptr_sprite.png');
 }
 
-#chrollo { background-position: -150px 0; }
-#feitan { background-position: -300px 0; }
-#uvogin { background-position: -450px 0; }
-#kortopi { background-position: -600px 0; }
-#nobunaga { background-position: -750px 0; }
+#chrollo { background-position:  0px 0; }
+#feitan { background-position:   750px 0; }
+#uvogin { background-position:  -300px 0; }
+#kortopi { background-position:  450px 0; }
+#nobunaga { background-position: 300px 0; }
+#phinks { background-position:   150px   0;}
 
 .sprite:hover { background-position-y: -150px !important; }
 
