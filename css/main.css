@@ -13,13 +13,13 @@ html, body { height: 100% }
 
 body { 
   font-family: sans-serif;
-  background-color: black;
+  background-color: rgb(3, 3, 3);
   color: white;
 }
 
 /* main header rules */
 header {
-    background-color: rgb(13, 13, 13);
+    background-color: white;
     position: sticky;
     top: 0;
     text-align: center;
