@@ -14,12 +14,12 @@ html, body { height: 100% }
 body { 
   font-family: sans-serif;
   background-color: rgb(3, 3, 3);
-  color: white;
+  color: rgb(250, 248, 248);
 }
 
 /* main header rules */
 header {
-    background-color: white;
+    background-color: rgb(6, 0, 0);
     position: sticky;
     top: 0;
     text-align: center;
@@ -30,7 +30,7 @@ header {
 /* main rules here */
 #character_nav {
     text-align: center;
-    background-color: #675050;
+    background-color: #fbfbfb;
 
     background-image: url('../images/pt.background.jpg');
     background-repeat: no-repeat;
